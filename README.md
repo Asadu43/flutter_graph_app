@@ -1,4 +1,6 @@
-# flutter_graph_app
+# Flutter Graph App
+
+![](graphapp.png)
 
 A new Flutter application.
 
